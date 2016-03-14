@@ -1,0 +1,28 @@
+name: youroll
+favicon: null
+layout_spectrum: 0.3033397141844034
+typography_spectrum: 0.27006685361266136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3609469181392342
+  lightness: 0.9425037920009345
+  saturation: 0.1872129978146404
+  rhythmicContrast: 0.657097150804475
+purpose: []
